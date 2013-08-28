@@ -10,6 +10,5 @@ Commands :
 - 0 : rotate BACK layer
 - 4 : rotate LEFT layer
 - 6 : rotate RIGHT layer
-
 - b : scramBle the cube randomly
 - s : Solve the cube (using a naive method, easier to implement :p )
